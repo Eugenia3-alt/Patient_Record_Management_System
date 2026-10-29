@@ -94,4 +94,3 @@ Future versions could include a database for permanent storage, login and access
 
 The Patient Record Management System demonstrates the practical use of Python classes, objects, lists, methods, and input validation. It provides a foundation for understanding how object-oriented programming can be applied to a simple record management task.
 
-Note: Use fictional patient information when testing this project.
